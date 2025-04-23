@@ -32,9 +32,7 @@
   - `Manager_operate.java`：管理操作类。
   - `Teacher_operate.java`：教师操作类。
 - **student_manage_system.sql**：MySQL数据库脚本文件，用于创建数据库和表结构。
-- **out/**：编译后的字节码文件目录。
-- **lib/**：项目依赖的库文件目录。
-- **student-management-system.iml**：IntelliJ IDEA项目配置文件。
+
 
 ## 使用技术
 
